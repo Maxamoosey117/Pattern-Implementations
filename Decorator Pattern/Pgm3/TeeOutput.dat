@@ -1,0 +1,2 @@
+    1:     1: [[[    _count = 0	# A shared value for Shape classes with no current objects]]]
+    2:     2: [[[        cls._count += 1         # Create/update class attribute]]]
